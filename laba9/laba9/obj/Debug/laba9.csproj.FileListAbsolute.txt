@@ -1,0 +1,9 @@
+C:\Users\adudin\source\repos\laba9\laba9\bin\Debug\laba9.exe.config
+C:\Users\adudin\source\repos\laba9\laba9\bin\Debug\laba9.exe
+C:\Users\adudin\source\repos\laba9\laba9\bin\Debug\laba9.pdb
+C:\Users\adudin\source\repos\laba9\laba9\obj\Debug\laba9.csprojAssemblyReference.cache
+C:\Users\adudin\source\repos\laba9\laba9\obj\Debug\laba9.btnExit.resources
+C:\Users\adudin\source\repos\laba9\laba9\obj\Debug\laba9.Properties.Resources.resources
+C:\Users\adudin\source\repos\laba9\laba9\obj\Debug\laba9.csproj.GenerateResource.cache
+C:\Users\adudin\source\repos\laba9\laba9\obj\Debug\laba9.exe
+C:\Users\adudin\source\repos\laba9\laba9\obj\Debug\laba9.pdb
